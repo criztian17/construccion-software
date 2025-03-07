@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1.Correct.Interfaces
+﻿namespace ConsoleApp1.SOLID.Correct.Interfaces
 {
     public interface IBreak
     {

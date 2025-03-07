@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1.Correct.Models
+﻿namespace ConsoleApp1.SOLID.Correct.Models
 {
     public record Employee
     {

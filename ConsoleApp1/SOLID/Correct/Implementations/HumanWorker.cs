@@ -1,6 +1,6 @@
-﻿using ConsoleApp1.Correct.Interfaces;
+﻿using ConsoleApp1.SOLID.Correct.Interfaces;
 
-namespace ConsoleApp1.Correct.Implementations
+namespace ConsoleApp1.SOLID.Correct.Implementations
 {
     public class HumanWorker : IWork, IBreak
     {

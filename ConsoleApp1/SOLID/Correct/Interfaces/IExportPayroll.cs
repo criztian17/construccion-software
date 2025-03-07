@@ -1,6 +1,6 @@
-﻿using ConsoleApp1.Correct.Models;
+﻿using ConsoleApp1.SOLID.Correct.Models;
 
-namespace ConsoleApp1.Correct.Interfaces
+namespace ConsoleApp1.SOLID.Correct.Interfaces
 {
     public interface IExportPayroll
     {

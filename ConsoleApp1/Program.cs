@@ -1,5 +1,5 @@
-﻿using ConsoleApp1.Correct.Implementations;
-using ConsoleApp1.Correct.Models;
+﻿using ConsoleApp1.SOLID.Correct.Implementations;
+using ConsoleApp1.SOLID.Correct.Models;
 
 public class Program
 {

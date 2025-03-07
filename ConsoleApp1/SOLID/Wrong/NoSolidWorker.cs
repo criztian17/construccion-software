@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1.Wrong
+﻿namespace ConsoleApp1.SOLID.Wrong
 {
     internal interface IWorker
     {
