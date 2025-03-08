@@ -1,5 +1,6 @@
-﻿using ConsoleApp1.SOLID.Correct.Implementations;
-using ConsoleApp1.SOLID.Correct.Models;
+﻿using Solid.SOLID.Correct.ISP.Implementations;
+using Solid.SOLID.Correct.SRP.Implementations;
+using Solid.SOLID.Correct.SRP.Models;
 
 public class Program
 {

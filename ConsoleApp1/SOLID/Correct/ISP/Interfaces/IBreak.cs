@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1.SOLID.Correct.Interfaces
+﻿namespace Solid.SOLID.Correct.ISP.Interfaces
 {
     public interface IBreak
     {

@@ -1,12 +1,12 @@
-﻿using ConsoleApp1.SOLID.Correct.Interfaces;
+﻿using Solid.SOLID.Correct.ISP.Interfaces;
 
-namespace ConsoleApp1.SOLID.Correct.Implementations
+namespace Solid.SOLID.Correct.ISP.Implementations
 {
     public class HumanWorker : IWork, IBreak
     {
         public void Break()
         {
-            Console.WriteLine("relaxing...");
+            Console.WriteLine("Human taking a break...");
         }
 
         public void Work()

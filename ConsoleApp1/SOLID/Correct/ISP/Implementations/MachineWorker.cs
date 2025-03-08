@@ -1,6 +1,6 @@
-﻿using ConsoleApp1.SOLID.Correct.Interfaces;
+﻿using Solid.SOLID.Correct.ISP.Interfaces;
 
-namespace ConsoleApp1.SOLID.Correct.Implementations
+namespace Solid.SOLID.Correct.ISP.Implementations
 {
     public class MachineWorker : IWork
     {

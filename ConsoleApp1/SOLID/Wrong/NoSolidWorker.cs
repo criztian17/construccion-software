@@ -18,7 +18,7 @@
         }
     }
 
-    internal class MachineWorker : IWorker
+    internal class NoSolidMachineWorker : IWorker
     {
         public void Break()
         {

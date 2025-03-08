@@ -1,6 +1,6 @@
-﻿using ConsoleApp1.SOLID.Correct.Models;
+﻿using Solid.SOLID.Correct.SRP.Models;
 
-namespace ConsoleApp1.SOLID.Correct.Interfaces
+namespace Solid.SOLID.Correct.SRP.Interfaces
 {
     public interface IExportPayroll
     {
